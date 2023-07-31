@@ -1,5 +1,8 @@
-# Matrix-Inverse-Finder
+# Matrix Inverse Finder
 A genetic algorithm aproach to find an inverse to a 3x3 matrix.
+
+## Tech stack
+<img src="https://skillicons.dev/icons?i=matlab" />
 
 ## Algorithm
 1. Get an input(matrix) from a user
